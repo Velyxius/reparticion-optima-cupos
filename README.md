@@ -8,12 +8,11 @@
 - Semestre 2023-II
 - Profesores: Jesus Alexander Aranda, Juan Francisco Díaz
 
-## Autores
+## Hecho en Colaboración con:
 
-- Johan Sebastián Tombe Campo - 2110051
-- César Alejandro Grijalba Zuñiga - 2110035
-- Marcelo Alejandro García Millán - 1941427
-- Alejandro Chará Garcia - 2010017
+- Johan Sebastián Tombe Campo
+- César Alejandro Grijalba Zuñiga
+- Alejandro Chará García
 
 ## Instrucciones
 
